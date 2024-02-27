@@ -40,7 +40,7 @@ I specialize in creating dynamic and responsive web applications using the power
 [![Programmer Giveaway](https://ytcards.demolab.com/?id=_HUJpBjMjts&title=Programmer+Giveaway&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Programmer Giveaway")](https://www.youtube.com/watch?v=_HUJpBjMjts)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
 
 #
 
